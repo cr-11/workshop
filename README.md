@@ -1,2 +1,2 @@
 # workshop
-Ropository for the UWTSD Software Web Development 
+Ropository for the UWTSD Web Software Development 
